@@ -300,4 +300,4 @@ For issues and questions:
 
 ---
 
-**Made with ❤️ for high-quality image processing**
+**Made with ❤️ by Muhammad Moiz**
