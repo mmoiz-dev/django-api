@@ -1,0 +1,17 @@
+Django==5.2.4
+djangorestframework==3.16.0
+Pillow==10.4.0
+rembg==2.0.67
+opencv-python==4.12.0.88
+numpy==2.2.2
+onnxruntime==1.22.1
+# Advanced AI models for better quality
+torch>=2.6.0
+torchvision>=0.17.0
+transformers>=4.37.0
+diffusers>=0.25.0
+# For better image processing
+scikit-image>=0.22.0
+scipy>=1.12.0
+# For advanced background removal
+ultralytics>=8.1.0 
