@@ -142,24 +142,6 @@ django-api/
 └── README.md                 # This file
 ```
 
-## 🧪 Testing
-
-### Using Postman
-1. Import the Postman collection from `postman_testing_guide.md`
-2. Set up environment variables
-3. Test both basic and advanced endpoints
-4. Compare quality differences
-
-### Using Python Script
-```bash
-python test_quality_comparison.py
-```
-
-### Manual Testing
-1. Start the server: `python manage.py runserver`
-2. Use curl or Postman to test endpoints
-3. Check processed images in `media/processed_images/`
-
 ## 📊 Response Format
 
 ### Successful Response
